@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/softly-falling-for-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Softly Falling For You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-falling-for-you/) |
+| **Get License** | [Secure Licensing Rights for Softly Falling For You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-falling-for-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your eyes are pulling me into a beautiful danger
+> I came into this room as just another stranger
+> But now the air is heavy and the fire is growing
+> I’m caught inside a current and it’s already flowing
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
