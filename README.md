@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/softly-falling-for-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Softly Falling For You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-falling-for-you/) |
+| **Get License** | [Music Rights & Licensing for Softly Falling For You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-falling-for-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2237)
 
 ---
 
