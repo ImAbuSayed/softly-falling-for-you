@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Softly Falling For You
+
+This log tracks the cryptographic history and versioning for the song **Softly Falling For You** (softly-falling-for-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T16:28:25.628291 | `v1` | `e7d46411f37f824b362bed421b1cfa7c17450aefd46ee74092b6e04a1db48e14` | `3ec339342c74e5c7fcc8fba048d0812a9f2fabce9e416e3692498d49b80b7914` | `2026-05-27_softly-falling-for-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
